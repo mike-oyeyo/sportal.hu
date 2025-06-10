@@ -1,0 +1,132 @@
+<!--Start footer-->
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="max-width:600px;width:600px;background-color:#161616;">
+   <tr>
+      <td width="600" align="center" style="padding-left:0px;padding-right:0px;padding-top:40px;padding-bottom:0px;background-color:#161616;">
+         <![endif]-->
+   <tr>
+      <td bgcolor="#161616" width="600">
+         <table align="center" bgcolor="#161616" width="100%" style="border-spacing:0;max-width:600px;border-bottom-left-radius:0em;border-bottom-right-radius:0em;font-family:sans-serif;color:#696969;">
+            
+            
+              <tr>
+                    <td align="center" class="px-sm-16" style="color:#ffffff; padding-bottom:0px;padding-top:20px">
+                      
+                      
+                      <p style="font-family:'Roboto Slab', sans-serif, Arial;"> <span style="font-weight: bold;font-family:'Roboto Slab', sans-serif, Arial;font-size: 11px;line-height: 20px;text-transform: uppercase;" class="text-grey text-small">Kövess minket</span><br>
+                      <br>
+                     
+                    </p>
+                      
+                
+                        
+                    </td>
+                </tr>
+                          
+            
+            
+            <!--Start Social Media block-->
+            <tr>
+               <td width="100%"  align="center" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">
+                  <table align="center" width="250" style="max-width:250px;padding-top:10px;">
+                     <tr>
+								<td width="32">
+                                <a href="https://www.facebook.com/sportal.hu"><img src="https://media.sailthru.com/7fw/1k9/6/a/6847e62e9b5f5.png" style="text-align:center;" width="32" />
+                                </a>
+                              </td>
+                              
+                              <td width="20">&nbsp;
+                              </td>
+                              <td width="32">
+                                <a href="https://x.com/sportal_hu"><img src="https://media.sailthru.com/7fw/1k9/6/a/6847e64f4e018.png" style="text-align:center;" width="32" />
+                                </a>
+                              </td>
+                              <td width="20">&nbsp;
+                              </td>
+                              <td width="32">
+                                <a href="https://www.tiktok.com/@sportal.hu"><img src="https://media.sailthru.com/7fw/1k9/6/a/6847e64923616.png" style="text-align:center;" width="32" />
+                                </a>
+                              </td>
+								
+								
+								<td width="20">&nbsp;
+                              </td>
+                              <td width="32">
+                                <a href="https://www.instagram.com/sportal.hu/"><img src="https://media.sailthru.com/7fw/1k9/6/a/6847e63d7a2b4.png" style="text-align:center;" width="32" />
+                                </a>
+                              </td>
+								
+ 							<td width="20">&nbsp;
+                              </td>
+                              <td width="35">
+                                <a href="https://www.youtube.com/channel/UCGtJH89AtQ9GUOdYezInYzQ"><img src="https://media.sailthru.com/7fw/1k9/6/a/6847e63657740.png" style="text-align:center;" width="32" />
+                                </a>
+                              </td>
+                            </tr>
+                  </table>
+               </td>
+            </tr>
+            <!--End Social Media block-->
+            <!--Subscription Management Block-->
+            <tr>
+                    <td align="center" class="px-sm-16" style="color:#ffffff; padding-bottom:48px;padding-top:20px">
+                          <p class="text-grey text-small" style="padding:16px 24px 0px 24px;font-family:'Roboto', sans-serif, Arial;sans-serif;font-size: 11px;line-height: 20px;">© {date("yyyy")} Ringier Sports Media Hungary Kft.
+</p>
+                  
+                      
+                      <p style="font-family:'Roboto Slab',Roboto', sans-serif, Arial;color: ffffff;"> <span style="color: #ffffff; text-transform: uppercase;font-weight: bold;font-family:'Roboto', sans-serif, Arial;font-size: 11px;line-height: 20px;">Címünk:</span><br>
+                      <span style="color: #ffffff; font-weight: normal;font-family:'Roboto', sans-serif, Arial;font-size: 11px;line-height: 16px;" class="text-grey text-small">1122 Budapest, Városmajor utca 11</span>
+                      <br>
+                     
+                    </p>
+                      
+                      
+                      
+                                            <p  style="padding:5px 24px 0 24px;font-family:'Roboto', sans-serif, Arial;">
+                      <span style="font-weight: normal;font-family:'Roboto', sans-serif, Arial;font-size: 11px;line-height: 20px;" class="text-grey text-small"> Azért kaptad ezt a levelet, mert feliratkoztál hírlevelünkre. Szeretnéd módosítani a beállításaidat vagy nem szeretnél több hírlevelet kapni tőlünk?
+ </span>  <a href="{optout_confirm_url}" style="color:#ffffff;font-family:'Roboto', sans-serif, Arial;font-size: 11px;" class="text-grey">Iratkozz le itt!</a>
+                      <br>
+                     
+                    </p>
+                        
+                        
+                        
+                        
+                                            <p class="text-grey text-small" style="padding:0px 24px 0 24px;font-family:'Roboto', sans-serif, Arial;">
+                      <span style="font-weight: normal;font-family:'Roboto', sans-serif, Arial;font-size: 11px;line-height: 20px;" class="text-grey text-small"> Adatkezelési 
+
+ </span>  <a href="https://www.sportal.hu/jogi-nyilatkozatok" style="color:#ffffff;font-family:'Roboto', sans-serif, Arial;font-size: 11px;" class="text-grey">tájékoztató.
+</a>
+                      <br>
+                     
+                    </p>
+                      
+                      
+             
+                
+                      
+                    <p class="text-grey text-small" style="padding:0px 24px 0 24px;font-family:'Roboto', sans-serif, Arial;font-size: 11px;"><a href="{view_url}" style="color:#ffffff;font-family:'Roboto', sans-serif, Arial;font-size: 11px;" class="text-grey">Megnyitom böngészőben
+
+</a></p>
+                    </td>
+                </tr>
+                          
+            <!--End Subscription Management Block-->
+         </table>
+      </td>
+   </tr>
+   <!--[if mso]>
+   </td></tr>
+</table>
+<![endif]-->
+<!--End footer-->
+<!--[if mso]>
+</td></tr></table>
+<![endif]-->
+                   </tbody></table></div>
+<!--[if mso]>
+</td></tr></table>
+<![endif]-->
+</td></tr></tbody></table></div></tbody></table></div>
+</body>
+</html>
